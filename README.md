@@ -1,4 +1,7 @@
+![Real World AI Debugging Banner](images/real_world_ai_debugging_banner.png)
+
 # Real-World AI Debugging
+
 ## Investigating Real AI / Computer Vision / CUDA / TensorRT / OpenMMLab Failures
 
 This repository documents my ongoing study of real-world AI engineering issues gathered from public GitHub issues across:
